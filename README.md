@@ -8,7 +8,7 @@ An email slicer is a small utility that takes an email address and splits it int
 - **Username** – everything before the `@` symbol
 - **Domain** – everything after the `@` symbol
 
-For example:
+**For example:**
 Input: john.doe@example.com
 Output: Your user name is 'john.doe' and your domain is 'example.com'
 
