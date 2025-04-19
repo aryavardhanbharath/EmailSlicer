@@ -19,7 +19,7 @@ Clone the repository or copy the script.
 
 **Run the script in your terminal:**
 ```bash
-python email_slicer.py
+python email_slicer.py```
 
 
 **📂 Files**
